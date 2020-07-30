@@ -1,0 +1,14 @@
+h1 {
+    color: rgba(0,200,100, 0.8);
+    border-color: purple;
+    border-width: 5px;
+    border-style: solid;
+}
+
+body {
+    background: pink;
+}
+
+h4 {
+    background: rgb(255,100,00);
+}
